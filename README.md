@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Git, PyTorch**
 
-- - 💬 Ask me about **Machine Learning, Python, R, SQL, Flask.**
+- 💬 Ask me about **Machine Learning, Python, R, SQL, Flask.**
 
 - 👨‍💻 Surf me at [https://uddinborhan.com/](https://uddinborhan.com/)
 
