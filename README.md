@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Md Borhan uddin</h1>
 <h3 align="center">A Junior Data Scientist, pursuing a master in Data Science at Universität Potsdam, Germany.</h3>
-<img align ="right" alt = "Coding" width = "400" src "https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Flucas_mason%2Fcollections%2F3272245-work&psig=AOvVaw03CNP5DmsBZ0iv5LFw4sXz&ust=1699834518058000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCn55aXvYIDFQAAAAAdAAAAABAb">
+<img align ="right" alt = "Coding" width = "400" src "https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
-- 🔭 I’m currently working on **A Privacy preserving ML model evaluator.**
+- 🔭 I’m currently working on **A Privacy-preserving ML model evaluator.**
 
-- 🌱 I’m currently learning **Git, pytorch**
+- 🌱 I’m currently learning **Git, PyTorch**
 
 - 👨‍💻 Surf me at [https://uddinborhan.com/](https://uddinborhan.com/)
 
