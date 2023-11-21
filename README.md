@@ -22,3 +22,4 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BorHan-U)](https://github.com/BorHan-U/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BorHan-U&hide_progress=true)
