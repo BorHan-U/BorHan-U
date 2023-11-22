@@ -28,9 +28,9 @@
 <div align='center'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BorHan-U&count_private=true&show_icons=true&theme=react"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=jayed87&count_private=true&show_icons=true&theme=react"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BorHan-U&count_private=true&show_icons=true&theme=react"/>
   <br>
-  <img src="https://streak-stats.demolab.com/?user=jayed87&theme=react"/>
+  <img src="https://streak-stats.demolab.com/?user=BorHan-U&theme=react"/>
   <br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jayed87&theme=react-dark"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=BorHan-U&theme=react-dark"/>
 <div/>
