@@ -30,5 +30,5 @@
   <br>
   <img src="https://streak-stats.demolab.com/?user=BorHan-U&theme=react"/>
   <br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=BorHan-U&theme=react-dark"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=BorHan-U&theme=react"/>
 <div/>
