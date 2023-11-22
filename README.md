@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Borhan uddin</h1>
 
 
-![Hitcount](https://komarev.com/ghpvc/?username=jayed87&color=57bcd9)
+![Hitcount](https://komarev.com/ghpvc/?username=BorHan-U&color=57bcd9)
 
 <h3 align="center">A Junior Data Scientist, pursuing a master in Data Science at Universität Potsdam, Germany.</h3>
 
