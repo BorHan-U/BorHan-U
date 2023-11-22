@@ -26,7 +26,7 @@
 
 ### 🔥 My Stats 
 <div align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayed87&count_private=true&show_icons=true&theme=react"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BorHan-U&count_private=true&show_icons=true&theme=react"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=jayed87&count_private=true&show_icons=true&theme=react"/>
   <br>
