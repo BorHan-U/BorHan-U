@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md Borhan uddin</h1>
+### 👀 Visitor Info
+
+![Hitcount](https://komarev.com/ghpvc/?username=BorHan-U&color=57bcd9)
+
 <h3 align="center">A Junior Data Scientist, pursuing a master in Data Science at Universität Potsdam, Germany.</h3>
 
 - 🔭 I’m currently working on **A Privacy-preserving ML model evaluator.**
