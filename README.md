@@ -14,7 +14,7 @@
 - 👨‍💻 Surf me at [https://uddinborhan.com/](https://uddinborhan.com/)
 
 
-- 📫 How to reach me: **Info@uddinborhan.com**
+- 📫 How to reach me: **md.borhan.uddin@uni-potsdam.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
