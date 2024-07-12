@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **A Privacy-preserving ML model evaluator.**
 
-- 🌱 I’m currently learning **Git, PyTorch**
+- 🌱 I’m currently learning **React, Docker, AWS**
 
-- 💬 Ask me about **Machine Learning, Python, User Testing, R, SQL, Flask.**
+- 💬 Ask me about **Data Science, Python, SQL, GIT, API, Flask, WordPress.**
 
 - 👨‍💻 Surf me at [https://uddinborhan.com/](https://uddinborhan.com/)
 
