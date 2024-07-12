@@ -3,7 +3,7 @@
 
 ![Hitcount](https://komarev.com/ghpvc/?username=BorHan-U&color=57bcd9)
 
-<h3 align="center">A Junior Data Scientist, pursuing a master in Data Science at Universität Potsdam, Germany.</h3>
+<h3 align="center"> A path to Data Scientist, pursuing a master in Data Science at Universität Potsdam, Germany.</h3>
 
 - 🔭 I’m currently working on **A Privacy-preserving ML model evaluator.**
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Data Science, Python, SQL, GIT, API, Flask, WordPress.**
 
-- 👨‍💻 Surf me at [https://uddinborhan.com/](https://uddinborhan.com/)
+- 👨‍💻 Surf me at [https://uddinborhan.com/](www.linkedin.com/in/mdborhanlink)
 
 
 - 📫 How to reach me: **md.borhan.uddin@uni-potsdam.de**
