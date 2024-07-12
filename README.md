@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Data Science, Python, SQL, GIT, API, Flask, WordPress.**
 
-- 👨‍💻 Surf me at [www.linkedin.com/in/mdborhanlink](www.linkedin.com/in/mdborhanlink)
+- 👨‍💻 Surf me at <a href="https://www.linkedin.com/in/md-borhan-uddin-81b9221b5/" target="blank"><img align="center" 
 
 
 - 📫 How to reach me: **md.borhan.uddin@uni-potsdam.de**
