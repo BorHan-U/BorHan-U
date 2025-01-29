@@ -7,9 +7,6 @@
 
 - 🔭 I’m currently working on **A Privacy-preserving ML model evaluator.**
 
-- 🌱 I’m currently learning **React, Docker, AWS**
-
-- 💬 Ask me about **Data Science, Python, SQL, GIT, API, Flask, Flutter, WordPress.**
 
 - 👨‍💻 Surf at <a href="https://www.linkedin.com/in/md-borhan-uddin-81b9221b5/" target="blank">In
 
