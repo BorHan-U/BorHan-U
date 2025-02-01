@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md Borhan uddin</h1>
+<h1 align="center">Hi 👋, I'm Borhan</h1>
 
 
 ![Hitcount](https://komarev.com/ghpvc/?username=BorHan-U&color=57bcd9)
