@@ -5,7 +5,7 @@
 
 <h3 align="center"> A path to Data Scientist, pursuing a master in Data Science at Universität Potsdam, Germany.</h3>
 
-- 🔭 I’m currently working on **A Privacy-preserving ML model evaluator.**
+- 🔭 I’m currently working on **A Privacy-preserving machine learning model evaluator.**
 
 
 - 👨‍💻 Surf at <a href="https://www.linkedin.com/in/md-borhan-uddin-81b9221b5/" target="blank">In
