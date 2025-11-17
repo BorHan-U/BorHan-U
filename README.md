@@ -3,7 +3,7 @@
 
 ![Hitcount](https://komarev.com/ghpvc/?username=BorHan-U&color=57bcd9)
 
-#<h3 align="center"> Currently working as a Data Scientist, and pursuing a master in Data Science at Universität Potsdam.</h3>
+#<h3 align="center"> Working as Data Scientist, and pursuing a master in Data Science at Universität Potsdam.</h3>
 
 - 🔭 I’m currently working on **A Privacy-preserving machine learning model evaluator.**
 
