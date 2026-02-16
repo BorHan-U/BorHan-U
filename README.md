@@ -3,7 +3,7 @@
 
 ![Hitcount](https://komarev.com/ghpvc/?username=BorHan-U&color=57bcd9)
 
-#<h3 align="center"> Works as a Data Scientist, and pursuing a master's in Data Science at Universität Potsdam.</h3>
+<h3 align="center"> Works as a Data Scientist, and pursuing a master's in Data Science at Universität Potsdam.</h3>
 
 - 🔭 Currently working on **An Emotion-aware mental health Chatbot**
 
