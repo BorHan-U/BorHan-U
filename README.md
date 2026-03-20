@@ -5,13 +5,13 @@
 
 <h3 align="center"> Works as a Data Scientist, and pursuing a master's in Data Science at Universität Potsdam.</h3>
 
-- 🔭 Currently working on **An Emotion-aware mental health Chatbot**
+- 🔭 Currently working on **Developing a methodology for measuring digital carbon emissions to enhance sustainability insights across digital systems.**
 
 
-- 👨‍💻 Surf at <a href="https://www.linkedin.com/in/md-borhan-uddin-81b9221b5/" target="blank">In
+- 👨‍💻 Find me at <a href="https://www.linkedin.com/in/md-borhan-uddin-81b9221b5/" target="blank">LinkedIn
 
 
-- 📫 How to reach me: **md.borhan.uddin@uni-potsdam.de**
+- 📫 Email: **md.borhan.uddin@uni-potsdam.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
