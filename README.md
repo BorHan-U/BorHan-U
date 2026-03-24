@@ -3,7 +3,7 @@
 
 ![Hitcount](https://komarev.com/ghpvc/?username=BorHan-U&color=57bcd9)
 
-<h3 align="center"> I have been working as a data science working student, and pursuing a master's in Data Science at Universität Potsdam.</h3>
+<h3 align="center"> Working as a data science working student, and pursuing a master's in Data Science at Universität Potsdam.</h3>
 
 - 🔭 Currently working on **Developing and improving methodologies for measuring digital carbon emissions across digital systems (devices, data centers, and end-to-end data pipelines) to enhance accuracy and sustainability insights.**
 
