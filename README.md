@@ -7,10 +7,6 @@
 
 - 🔭 Currently working on **Developing a methodology for measuring digital carbon emissions to enhance sustainability insights across digital systems.**
 
-
-- 👨‍💻 Find me at <a href="https://www.linkedin.com/in/md-borhan-uddin-81b9221b5/" target="blank">LinkedIn
-
-
 - 📫 Email: **md.borhan.uddin@uni-potsdam.de**
 
 <h3 align="left">Connect with me:</h3>
